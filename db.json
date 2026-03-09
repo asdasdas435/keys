@@ -1,7 +1,7 @@
 {
   "projects": {},
   "blacklisted": {},
-  "logsWebhook": null,
+  "logsWebhook": "https://discord.com/api/webhooks/1480622749876752513/DSLxexdE8AxmfEoL2nI2OSYax218lT8mqcrp7QuGYe6qPZ6ovJFdR2TI2pm2jzZHbP3b",
   "projectName": "Semi Instant TP",
   "loaderScript": "sadwadsa",
   "buyerRoleId": "1478206524026388683"
